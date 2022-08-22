@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.1 注册", "2.1.1 注册\2.1.1 注册.csproj", "{E26497E9-4E52-45A1-AB33-CBFBE93EA451}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD039B99-DB87-491F-81FE-D79139067614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E26497E9-4E52-45A1-AB33-CBFBE93EA451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26497E9-4E52-45A1-AB33-CBFBE93EA451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26497E9-4E52-45A1-AB33-CBFBE93EA451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26497E9-4E52-45A1-AB33-CBFBE93EA451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6289C53-DF27-43BB-AA17-E3D0FD9E2F56}
+	EndGlobalSection
+EndGlobal
